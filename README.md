@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # velozity_assesment
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# velozity-osman
+>>>>>>> 6e94895be0b4fe4260b2da0152e0ab4b64dcfaec
